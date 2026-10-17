@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.local
+.next/
+build/
+dist/
+.DS_Store
+.vscode/
+.idea/
+android/.gradle/
+*.apk
+*.aab
